@@ -1,1 +1,1 @@
-# web-developer-resumer-generator
+# web-developer-resume-generator
